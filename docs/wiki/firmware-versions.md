@@ -14,7 +14,7 @@ Pico W: [scoppy-picow-v18.uf2](https://github.com/fhdm-dev/scpdl1/raw/master/a/v
 
 Pico 2: [scoppy-pico2-v19.uf2](https://github.com/fhdm-dev/scpdl1/raw/master/a/v19/scoppy-pico2-v19.uf2)
 <br>
-Pico 2 W: COMING SOON
+Pico 2 W: COMING SOON  
 
 ### Firmware for FHDM TECH Oscilloscopes
 
