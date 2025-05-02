@@ -10,9 +10,11 @@ Pico: [scoppy-pico-v18.uf2](https://github.com/fhdm-dev/scpdl1/raw/master/a/v18/
 <br>
 Pico W: [scoppy-picow-v18.uf2](https://github.com/fhdm-dev/scpdl1/raw/master/a/v18/scoppy-picow-v18.uf2)
 
-<small>Note.  Different firmware is available for the Pico and Pico W. The Pico firmware is not compatible with the Pico W and vice versa.</small>
+### Firmware for Raspberry Pi Pico 2 and Pico 2 W
 
-or
+Pico 2: [scoppy-pico2-v19.uf2](https://github.com/fhdm-dev/scpdl1/raw/master/a/v19/scoppy-pico2-v19.uf2)
+<br>
+Pico 2 W: COMING SOON
 
 ### Firmware for FHDM TECH Oscilloscopes
 
